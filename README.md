@@ -10,7 +10,7 @@ Main Page: Dashboard to track communications and manage tasks.
 Calendar View: View communication events and schedules in a calendar format.
 Company Management (Admin): Admin features to add and manage companies.
 
-Responsive Design: Fully responsive layout, optimized for both desktop and mobile views.
+Responsive Design: Fully responsive layout, optimized for desktop.
 GitHub Pages Deployment: Automatically deployed to GitHub Pages.
 
 Technologies Used
