@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/communication-tracker/static/css/main.7eafc923.css",
+    "main.js": "/communication-tracker/static/js/main.34de1cfc.js",
+    "static/js/488.beb47a54.chunk.js": "/communication-tracker/static/js/488.beb47a54.chunk.js",
+    "static/media/image.jpg": "/communication-tracker/static/media/image.2cc5aadde0c5395c8ec3.jpg",
+    "static/media/image1.jpg": "/communication-tracker/static/media/image1.3191da121f0d582a3579.jpg",
+    "index.html": "/communication-tracker/index.html",
+    "main.7eafc923.css.map": "/communication-tracker/static/css/main.7eafc923.css.map",
+    "main.34de1cfc.js.map": "/communication-tracker/static/js/main.34de1cfc.js.map",
+    "488.beb47a54.chunk.js.map": "/communication-tracker/static/js/488.beb47a54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7eafc923.css",
+    "static/js/main.34de1cfc.js"
+  ]
+}
